@@ -7,7 +7,7 @@ Platforms
   -Native Script Playground
  
 App flow
-![](images/iip.png)
+![](images/IIP.png)
 
 There are 5 pages in the App
 1. Login - Customers, Businesses and Workers will login here
