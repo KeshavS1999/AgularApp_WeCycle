@@ -2,11 +2,11 @@
 ### In this Project, I did app development under NATIVE SCRIPT environment using ANGULAR framework.
 ![](images/logonew.png)
 
-###Platforms
+Platforms
 -Visual Studio Code
 -Native Script Playground
 
-###There are 5 pages in the App
+There are 5 pages in the App
 1. Login - Customers, Businesses and Workers will login here
 2. Home - They will select out of the 3 options to go in as a customer, a business or a worker.
 3. Customer - Here there will be 2 options, 
