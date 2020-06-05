@@ -5,6 +5,7 @@
 ###Platforms
 -Visual Studio Code
 -Native Script Playground
+
 ###There are 5 pages in the App
 1. Login - Customers, Businesses and Workers will login here
 2. Home - They will select out of the 3 options to go in as a customer, a business or a worker.
