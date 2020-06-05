@@ -3,8 +3,8 @@
 ![](images/logonew.png)
 
 Platforms
--Visual Studio Code
--Native Script Playground
+  -Visual Studio Code
+  -Native Script Playground
 
 There are 5 pages in the App
 1. Login - Customers, Businesses and Workers will login here
